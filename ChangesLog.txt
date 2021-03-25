@@ -1,0 +1,8 @@
+19 November 2017
+   released version 1.0.2 of ICT-CMS
+
+     Change log:
+        -Added: Favorite! Now you can add people to your favorite list!
+        -Fixed: A bug where user can log in after typing random ID and Password
+		-Cleaned: welcomeActivity and ADMIN_welcomeActivity has been merged into one function.
+
